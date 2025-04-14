@@ -23,9 +23,11 @@ This project is an interactive Power BI dashboard analyzing player and team perf
 - Excel for preliminary inspection
 
 ## Screenshots
-*(Insert dashboard images here)*
+[IPL dashboard 1.pdf](https://github.com/user-attachments/files/19730848/IPL.dashboard.1.pdf)
+
 
 ## Insights
+
 - CSK had one of the highest win rates across seasons.
 - Virat Kohli consistently ranked among top scorers.
 - Bowlers like Bhuvneshwar Kumar and Bumrah were top wicket-takers.
